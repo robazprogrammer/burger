@@ -4,18 +4,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
-  .jumbotron h1{
-      color: black;
+
   
-  }
-  
-  img {
+img {
 
   margin-top: 40px;
     width: 350px;
   }
   
-  .submitFont{
-      
-      color: black;
-  }
