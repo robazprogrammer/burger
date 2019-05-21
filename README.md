@@ -8,4 +8,8 @@ Your app will store every burger in a database, whether devoured or not.
 
 Click on the links below to check it out:
 
+ https://dashboard.heroku.com/apps/burgerrob
+ https://github.com/robazprogrammer/burger.git
+ https://robazprogrammer.github.io/burger/
+
 
